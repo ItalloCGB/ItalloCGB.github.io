@@ -98,7 +98,7 @@
     }
     .experiencia-texto{
         max-width: 60ch;
-        font-size: 1.25rem;
+        
 }
     .empresa-ano{
         position: initial;
@@ -117,5 +117,9 @@
     }
     .empresa-titulo{
         text-transform: uppercase;
+    }
+    .experiencia .subtitulo{
+        color: #141414;
+        font-size: 3.5rem;
     }
 }
